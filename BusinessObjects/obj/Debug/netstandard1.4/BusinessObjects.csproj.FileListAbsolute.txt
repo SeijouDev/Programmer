@@ -1,0 +1,7 @@
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\bin\Debug\netstandard1.4\BusinessObjects.deps.json
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\bin\Debug\netstandard1.4\BusinessObjects.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\bin\Debug\netstandard1.4\BusinessObjects.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\obj\Debug\netstandard1.4\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\obj\Debug\netstandard1.4\BusinessObjects.AssemblyInfo.cs
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\obj\Debug\netstandard1.4\BusinessObjects.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\BusinessObjects\obj\Debug\netstandard1.4\BusinessObjects.pdb
