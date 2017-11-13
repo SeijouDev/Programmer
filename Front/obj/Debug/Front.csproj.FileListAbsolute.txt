@@ -1,0 +1,667 @@
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Front.dll.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Front.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Front.pdb
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Entities.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ESTUDIANTES\Desktop\CarSharing\Front\bin\Entities.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\obj\Debug\Front.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\obj\Debug\Front.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\ApplicationInsights.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\csc.exe
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\csc.exe.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\csc.rsp
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\csi.exe
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\csi.rsp
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.AppContext.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\vbc.exe
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\vbc.exe.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\vbc.rsp
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Front.dll.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Front.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Front.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Antlr3.Runtime.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\DataAccess.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Entities.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Web.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Newtonsoft.Json.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\System.Web.Optimization.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\WebGrease.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\MySql.Data.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\DataAccess.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\DataAccess.dll.config
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Entities.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\System.Web.Optimization.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Antlr3.Runtime.pdb
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Newtonsoft.Json.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Web.xml
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\BusinessObjects.dll
+C:\Users\Developer AZ\Desktop\CarSharing-master\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CarSharing\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Front.dll.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Front.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Front.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\BusinessObjects.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\BussinessLogic.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Entities.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\BusinessObjects.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\BussinessLogic.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Entities.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ESTUDIANTES\Documents\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CarSharing-master\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CarSharing-master\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\CarSharing-master\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\git\CarSharing\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\git\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\git\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\asdfg\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\asdfg\ProyectoProgrammer\CarSharing\Front\obj\Debug\Front.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\sol\Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\sol\Front\bin\Front.dll.config
+C:\Users\ASUS\Desktop\sol\Front\bin\Front.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Front.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\BusinessObjects.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\BussinessLogic.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Entities.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\DataAccess.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\MySql.Data.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\BusinessObjects.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\BussinessLogic.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\Entities.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\sol\Front\bin\DataAccess.pdb
+C:\Users\ASUS\Desktop\sol\Front\bin\DataAccess.dll.config
+C:\Users\ASUS\Desktop\sol\Front\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\sol\Front\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ASUS\Desktop\sol\Front\obj\Debug\Front.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\sol\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sol\Front\obj\Debug\Front.dll
+C:\Users\ASUS\Desktop\sol\Front\obj\Debug\Front.pdb
